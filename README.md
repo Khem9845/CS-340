@@ -1,6 +1,8 @@
 # CS-340
 **CS-340 client/server development projects, CRUD Python code, and dashboard files.**
+
 **README Reflection:**
+
 In this course, I learned that maintainable, readable, and adaptable programs are built by organizing code clearly, using meaningful names, and separating tasks into reusable parts. In Project One, I created a CRUD Python module to handle interactions with the MongoDB database. This made my code easier to manage because the database connection and create, read, update, and delete operations were kept in one place instead of being repeated throughout the dashboard code. The advantage of working this way was that I could connect the dashboard widgets to the database more efficiently and make updates without rewriting large parts of the program. In the future, I could reuse this CRUD module in other database-driven applications that require storing, retrieving, updating, or deleting records.
 
 I approached this project as a computer scientist by first understanding the client’s requirements and then breaking the problem into smaller steps. For Grazioso Salvare, I needed to think about both the database requirements and the dashboard requirements so the final system would support the company’s work. My approach in this project was different from some earlier assignments because it required connecting multiple parts together, including the database, Python module, and dashboard interface, instead of only writing one isolated program. In the future, I would continue using strategies such as planning the data structure carefully, testing each feature step by step, and making sure the system matches what the client actually needs.
